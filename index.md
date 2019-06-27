@@ -3,21 +3,24 @@
 
 ## Define Comments
 Use it as "\< !-- comment here-- >" (*Remove the empyty space around < , >*)
-_______
+
+---
 
 ## Italics
 Use a \*test_here* so it becomes *Text_here*  **OR** _Text_here_with_underscore_
-________
+
+---
 ## For Bold
 Use double \**test_here** so it becomes **Text_here**
 You can also use __ texthere __ becoming  __Hello Boy__
 
-_______
+---
 
 ## Strike-through
 Use ~~ text_here ~~ so it becomes ~~Java is awesome~~
 
-_______
+---
+
 ## For a horizontal Line
 Use 3 hyphens or underscores
  ___like this
@@ -42,7 +45,7 @@ Use asterisk follewed by item name
     * SubItem 3
         * SubSubItem 1
 
-______
+---
 For ordered List Use 1. item1 (next_line) 1.item2 and so on
 1. item1
 1. item2
