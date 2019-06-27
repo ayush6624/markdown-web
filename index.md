@@ -35,7 +35,8 @@ Use asterisk follewed by item name
     * SubItem 1
     * SubItem 3
         * SubSubItem 1
-___
+
+______
 For ordered List Use 1. item1 (next_line) 1.item2 and so on
 1. item1
 1. item2
