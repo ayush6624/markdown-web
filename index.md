@@ -8,7 +8,6 @@ I'm Ayush Goyal , keen to learn improve my coding knowledge. You can connect me 
 ## Quick Self-Tutorial
 
 [Markdown](./markdown_tutorial.md)  
-
 [Git](./git_tutorial.md)
 
 ---
