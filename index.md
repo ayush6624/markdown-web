@@ -7,7 +7,9 @@ I'm Ayush Goyal , keen to learn improve my coding knowledge. You can connect me 
 
 ## Quick Self-Tutorial
 
-[Markdown](./tutorial.md)
+[Markdown](./markdown_tutorial.md)
+[Git](./git_tutorial.md)
+
 ---
 
 # Skills
@@ -19,6 +21,7 @@ I'm Ayush Goyal , keen to learn improve my coding knowledge. You can connect me 
     * [ ] Long Term Git Experience
 * [ ] C++
     * [x] Basic Syntax For Beginner Level Programming Contests
+    * [ ] Beginner Level CodeChef
     * [ ] STL Library
     * [ ] Data Structure Algo
 * [ ] Python3
