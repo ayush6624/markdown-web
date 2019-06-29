@@ -16,14 +16,14 @@ I'm Ayush Goyal , keen to learn improve my coding knowledge. You can connect me 
 * [x] Markdown
 * [ ] Git
     * [x] CLI
-    * [x] Use Github, Manage PR, Branching, SSH, Branching, Stashing, etc.
-    * [x] GitKraken
+    * [x] Use Github, Manage PR, Branching, SSH, Branching, Stashing, Rebasing, Issues,etc.
+    * [x] GitKraken Project Management
     * [ ] Long Term Git Experience
 * [ ] C++
     * [x] Basic Syntax For Beginner Level Programming Contests
-    * [ ] Beginner Level CodeChef
-    * [ ] STL Library
+    * [x] Beginner Level CodeChef
     * [ ] Data Structure Algo
+    * [ ] STL Library
 * [ ] Python3
     * [ ] Basic Syntax For Beginner Level Programming Contests
     * [ ] Beginner Level CodeChef
@@ -31,10 +31,10 @@ I'm Ayush Goyal , keen to learn improve my coding knowledge. You can connect me 
 * [ ] Docker
     * [x] Ability to Deploy & Manage `Docker` Containers
     * [x] Use `Portainer`,  `yaml` to manage Docker Images
-    * [x] Use `Trafeik` And `Lets Encrypt` for managing Docker apps
-    * [ ] Ability to contanerise any application and deploy it
+    * [x] Use `Traefik` And `Lets Encrypt` for managing Docker apps
+    * [ ] Ability to containerise any application and deploy it
 * [ ] Linux
-    * [x] Use multiple Linux Distros on a daily-basis
+    * [x] Use Ubuntu on a daily-basis
     * [x] Ability to use headless server for daily usage
-    * [x] Comfortable with `bash` and `bash scripts`
+    * [x] Comfortable with `bash` and run code in the terminal
     * [x] Ability to manage remote machines with `SSH` and manage security
