@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 title: Ayush CheatSheets
+layout: sidebar
+social_media:
+  website: https://goyal.club
+  twitter: ayushg1214  
