@@ -4,4 +4,4 @@
 
 ### Post1
 
-![useful image]({{ site.url }}/assets/using-images-demo.gif)
+![useful image](https://web.goyal.club/assets/using-images-demo.gif)
